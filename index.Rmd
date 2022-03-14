@@ -1,9 +1,104 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
-date: "`r Sys.Date()`"
+title: "Words by Michael Yi"
+author: ""
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# About {.unnumbered #about}
+#### Hello! I'm Michael, and I write. Yeah. You read that right, babyyyyy. {-}
 
+[](headshot.JPG)
+
+# Essays {.unnumbered #essays}
+
+## Consequence of Laughter {-}
+##### Reflecting on the ways to Create and React to Comedy {-}
+
+
+<embed src="comedy_autoethnography.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+## Contradictions in Class-Based Restrictions {-}
+##### on A Woman’s Labour by M. Collier, Man the Monarch by M. Leapor, A Bold Stroke for a Wife by S. Centlivre {-}
+
+
+<embed src="contradictions_in_Class_Based_Restrictions.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+  
+## From Ragin and Gromov to Tsars and Serfs {-}
+##### on Ward no.6 by Anton Chekhov {-}
+
+
+<embed src="From_Ragin_and_Gromov_to_Tsars_and_Serfs.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+  
+## How Entanglements Affect Power Balance and Who Benefits {-}
+##### on Blood Music by Greg Bear, Lilith's Brood by Octavia Butler and I, Robot by Isaac Asimov {-}
+
+
+<embed src="How_Entanglements_affect_the_Power_Balance_and_Who_Benefits.pdf" width="700" height="900" 
+ type="application/pdf">
+  
+## How Magic And Knowledge Make Up What And How Servitude Is {-}
+##### on The Tempest by Shakespeare and Doctor Faustus by Marlowe {-}
+
+
+<embed src="How_Magic_And_Knowledge_Make_Up_What_And_How_Servitude_Is.pdf" width="700" height="900" 
+ type="application/pdf">
+
+## Implied Fact and Opinion {-}
+##### on Gooseberries by Anton Chekhov {-}
+
+
+<embed src="Implied_Fact_and_Opinion_in_Gooseberries.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+## Interpreting Chekhov’s Intent Through His Writing Style {-}
+##### on Gooseberries by Anton Chekhov {-}
+
+
+<embed src="Interpreting_Chekhovs_Intent_Through_His_Writing_Style.pdf" width="700" height="900" 
+ type="application/pdf">
+
+## Marriage as a Collection of Obstacles Preventing a Functional Relationship {-}
+##### on Who's The Dupe by Hannah Cowley and Nature and Art by Elizabeth Inchbald {-}
+
+
+<embed src="Collection_of_Obstacles_Preventing_a_Functional_Relationship.pdf" width="700" height="900" 
+ type="application/pdf">
+
+## A Servant Understanding of Reality {-}
+##### on The Cherry Orchard by Anton Chekhov and The Death of Ivan Ilyich by Leo Tolstoy {-}
+
+
+<embed src="Servants_Understanding_of_Reality.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+## Solving Truth and History with Numbers and Violence {-}
+##### on 1984 by George Orwell, Watchmen by Alan Moore&Dave Gibbons and Lathe of Heaven by Ursula K. Le Guin {-}
+
+
+<embed src="Truth_and_History_with_Numbers_and_Violence.pdf" width="700" height="900" 
+ type="application/pdf">
+
+## The Two Ways a Society Can Change and How People React {-}
+##### on Watchmen by Alan Moore & Dave Gibbons and Brave New World by Aldous Huxley {-}
+
+
+<embed src="The_Two_Ways_a_Society_Can_Change_and_How_People_React.pdf" width="700" height="900" 
+ type="application/pdf">
+
+# Short Stories {.unnumbered #short-stories}
+
+
+# Novels {.unnumbered #novels}
+
+# Editing {.unnumbered #editing}
+
+# Interactive Fiction {.unnumbered #interactive-fiction}
+
+# Other Projects {.unnumbered #other-projects}
+
+# Contact {.unnumbered #contact}
