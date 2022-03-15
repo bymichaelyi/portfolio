@@ -2,7 +2,7 @@
 title: "Words but in Different Permutations"
 author: "by Michael Yi"
 site: bookdown::bookdown_site
-favicon: "faviconp1.png"
+favicon: "racoonicon.png"
 
 ---
 
