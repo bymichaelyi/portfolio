@@ -3,7 +3,6 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Michael Yi - Portfolio</a></li>
+        <li><a href="./">Michael Yi's Portfolio</a></li>
       after: |
-        <li><a href="./" target="blank">Totes.</a></li>
         <img src="RACCOONinverted.png" alt="Raccoons" width="280">
