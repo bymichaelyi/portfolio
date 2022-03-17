@@ -220,6 +220,8 @@ ___
 
 coming soon
 
+Sample available, please [contact me][Contact]
+
 ___
 
 # Other Projects {.unnumbered #other-projects}
@@ -240,6 +242,7 @@ Call me at: <a href="tel:778-990-9780">778-990-9780</a>
 ___
 
 You can also:
+
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="michael-yi-47514b206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/michael-yi-47514b206?trk=profile-badge">Find me on Linkedin</a></div>
