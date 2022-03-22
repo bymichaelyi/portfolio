@@ -198,7 +198,7 @@ ___
 
 ___
 
-# Interactive Fiction {.unnumbered #interactive-fiction}
+# Games and Interactive Fiction {.unnumbered #interactive-fiction}
 
 ## Godzilla Wednesday {-}
 #### On KnightLab StoryMap JS {-}
@@ -215,12 +215,17 @@ ___
 
 [This interactive story is only available on texturewriter.com, click HERE to view it on the original website](https://texturewriter.com/play/ThreeRaccoons/zoltan-gets-out-of-unemployment/info)
 
+## Black and White {-}
+#### Platformer as Narrative Designer {-}
+
+To be released: April 2022
+
 ## Mortal Will {-}
 #### tRPG as Narrative Designer {-}
 
 coming soon
 
-Sample available, please [contact me][Contact]
+Story sample available, please [contact me][Contact]
 
 ___
 
