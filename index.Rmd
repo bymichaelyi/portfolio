@@ -202,7 +202,7 @@ ___
 
 ## Godzilla Wednesday {-}
 #### On KnightLab StoryMap JS {-}
-
+Solo Project
 
 <iframe src="https://uploads.knightlab.com/storymapjs/13b9e5e6d6fa2a54574b193790367066/godzilla-tuesday/index.html" frameborder="0" width="100%" height="800"></iframe>
 
@@ -210,22 +210,34 @@ ___
 
 ## Zoltan Gets Out of Unemployment {-}
 #### On TextureWriter {-}
+Solo Project 
 
 <img src="texture_writer.PNG" alt="texture_writer.PNG" width="300"/>
 
 [This interactive story is only available on texturewriter.com, click HERE to view it on the original website](https://texturewriter.com/play/ThreeRaccoons/zoltan-gets-out-of-unemployment/info)
 
+## Tainted Paths {-}
+#### Mod for Mount and Blade: Warband {-}
+as Writer-Editor-Proofreader Team Member 
+
+<img src="icon_for_moddb_and_steam.gif" alt="icon_for_moddb_and_steam.gif1" width="500"/>
+
+[Download the mod](https://www.moddb.com/mods/tainted-paths) 
+
+*base game required*
+
 ## Black and White {-}
-#### Platformer as Narrative Designer {-}
+#### 2.5D Platformer {-}
+as Narrative Designer 
 
 To be released: April 2022
 
 ## Mortal Will {-}
-#### tRPG as Narrative Designer {-}
+#### Isometric tRPG {-}
+as Narrative Designer 
 
 coming soon
-
-Story sample available, please [contact me][Contact]
+sample available, please [contact me][Contact]
 
 ___
 
