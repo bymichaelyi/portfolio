@@ -9,7 +9,7 @@ favicon: "racoonicon.png"
 # About {.unnumbered #about}
 ___
 
-#### Greeting, I'm Michael and welcome to my portfolio. I do writing, editing and teaching but I sometimes also do less important activities such as eating and breathing.  {-}
+#### Greetings, I'm Michael and welcome to my portfolio. I do writing, editing and teaching but I sometimes also do less important activities such as eating and breathing.  {-}
 
 <img src="Yi_Photo.jpg" alt="Yi_Photo.jpg" width="300"/>
 
