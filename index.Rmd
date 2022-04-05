@@ -11,11 +11,11 @@ ___
 
 #### Greetings, I'm Michael and welcome to my portfolio. I do writing, editing and teaching but I sometimes also do less important activities such as eating and breathing.  {-}
 
-<img src="Yi_Photo.jpg" alt="Yi_Photo.jpg" width="300"/>
-
 #### Bio {-}
 
-Growing up thinking of STEM as more inherently honourable than arts, I was originally in the Faculty of Science at the University of British Columbia studying Biochemistry before transferring to the English Literature Program. It was not as though my love of English was new, my best memories of high school were participating in Slam Poetry events and attending the seminar of the same novelist every year during career day. If I go even further back, I remember publishing my first fanfiction online when I was 12 years old, less than half a year after I began learning English. 
+|  |  |
+|---|---|
+|<img src="Yi_Photo.jpg" width="300"/> | Growing up thinking of STEM as more inherently honourable than arts, I was originally in the Faculty of Science at the University of British Columbia studying Biochemistry before transferring to the English Literature Program. It was not as though my love of English was new, my best memories of high school were participating in Slam Poetry events and attending the seminar of the same novelist every year during career day. If I go even further back, I remember publishing my first fanfiction online when I was 12 years old, less than half a year after I began learning English. |
 
 After using up all of my first year electives on English and Creative Writing classes and spending most of my free time in writing groups, I realised I already knew what I wanted to do with my life; I just wasn't doing it. I still think there is honour to the natural sciences, to discovering the working of the world and helping people through research in medicine, but I also know the biggest difference I could make would be made doing what I'm good at and what I'm passionate about. 
 
@@ -226,9 +226,15 @@ as Writer-Editor-Proofreader Team Member
 
 *base game required*
 
-## Black and White {-}
-#### 2.5D Platformer {-}
-as Narrative Designer 
+## Timekeeper {-}
+#### 2D Platformer {-}
+as Level Designer and Writer 
+to be released 4/2022
+
+## The Beginning {-}
+#### Maze Game {-}
+as Narrative Designer
+to be released 4/2022
 
 To be released: April 2022
 
