@@ -25,9 +25,73 @@ Though I have no intention to doubt the prestige of traditional publishing, my c
 
 Currently, I'm looking for a full-time position where my affinity for writing can come into play. Let me know, I'm up for most things.
 
-# Essays {.unnumbered #essays}
+___
+
+
+
+# Games {.unnumbered #games}
+
+## Timekeeper {-}
+#### 2D Atmospheric Platformer {-}
+as Co-Director and Narrative Designer
+
+<img src="banner.gif" alt="banner.gif1" width="600"/>
+
+[Play the game in your browser at itch.io](https://tworaccoons.itch.io/timekeeper)
+
+## Back Again {-}
+#### Isometric Retro Puzzle Game {-}
+as Narrative Designer
+
+<img src="bannershitty.png" alt="bannershitty.png1" width="450"/>
+
+[Play the game in your browser at itch.io](https://tworaccoons.itch.io/timekeeper)
+
+
+## Tainted Paths {-}
+#### Total Overhaul for Mount and Blade: Warband {-}
+as Narrative Designer and Secondary Editor
+
+<img src="icon_for_moddb_and_steam.gif" alt="icon_for_moddb_and_steam.gif1" width="500"/>
+
+[Download the mod](https://www.moddb.com/mods/tainted-paths) 
+
+*base game required*
+
+
+
+## Mortal Will {-}
+#### Isometric tRPG {-}
+as Narrative Designer 
+
+coming soon
+story demo and gameplay demo both available, please [contact me][Contact]
 
 ___
+
+# Games and Interactive Fiction {.unnumbered #interactive-fiction}
+
+## Godzilla Wednesday {-}
+#### On KnightLab StoryMap JS {-}
+Solo Project
+
+<iframe src="https://uploads.knightlab.com/storymapjs/13b9e5e6d6fa2a54574b193790367066/godzilla-tuesday/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+[Click HERE to view the storymap on the original website](https://uploads.knightlab.com/storymapjs/13b9e5e6d6fa2a54574b193790367066/godzilla-tuesday/index.html)
+
+## Zoltan Gets Out of Unemployment {-}
+#### On TextureWriter {-}
+Solo Project 
+
+<img src="texture_writer.PNG" alt="texture_writer.PNG" width="300"/>
+
+[This interactive story is only available on texturewriter.com, click HERE to view it on the original website](https://texturewriter.com/play/ThreeRaccoons/zoltan-gets-out-of-unemployment/info)
+
+___
+
+
+# Essays {.unnumbered #essays}
+
 
 ## Consequence of Laughter {-}
 ##### Reflecting on the ways to Create and React to Comedy {-}
@@ -107,6 +171,8 @@ ___
 
 <embed src="The_Two_Ways_a_Society_Can_Change_and_How_People_React.pdf" width="700" height="900" 
  type="application/pdf">
+ 
+ ___
 
 # Short Stories {.unnumbered #short-stories}
 
@@ -154,7 +220,6 @@ ___
 <embed src="Yi_KingZoltan.pdf" width="700" height="900" 
  type="application/pdf"> 
 ___
-___
 
 
 # Novels {.unnumbered #novels}
@@ -194,58 +259,9 @@ ___
 
 [amazon link](https://www.amazon.com/Fire-Molten-Ash-Clarence-Barbee-ebook/dp/B082KQPNVK#customerReviews)
 
-
-
 ___
 
-# Games and Interactive Fiction {.unnumbered #interactive-fiction}
 
-## Godzilla Wednesday {-}
-#### On KnightLab StoryMap JS {-}
-Solo Project
-
-<iframe src="https://uploads.knightlab.com/storymapjs/13b9e5e6d6fa2a54574b193790367066/godzilla-tuesday/index.html" frameborder="0" width="100%" height="800"></iframe>
-
-[Click HERE to view the storymap on the original website](https://uploads.knightlab.com/storymapjs/13b9e5e6d6fa2a54574b193790367066/godzilla-tuesday/index.html)
-
-## Zoltan Gets Out of Unemployment {-}
-#### On TextureWriter {-}
-Solo Project 
-
-<img src="texture_writer.PNG" alt="texture_writer.PNG" width="300"/>
-
-[This interactive story is only available on texturewriter.com, click HERE to view it on the original website](https://texturewriter.com/play/ThreeRaccoons/zoltan-gets-out-of-unemployment/info)
-
-## Tainted Paths {-}
-#### Mod for Mount and Blade: Warband {-}
-as Writer-Editor-Proofreader Team Member 
-
-<img src="icon_for_moddb_and_steam.gif" alt="icon_for_moddb_and_steam.gif1" width="500"/>
-
-[Download the mod](https://www.moddb.com/mods/tainted-paths) 
-
-*base game required*
-
-## Timekeeper {-}
-#### 2D Platformer {-}
-as Level Designer and Writer 
-to be released 4/2022
-
-## The Beginning {-}
-#### Maze Game {-}
-as Narrative Designer
-to be released 4/2022
-
-To be released: April 2022
-
-## Mortal Will {-}
-#### Isometric tRPG {-}
-as Narrative Designer 
-
-coming soon
-sample available, please [contact me][Contact]
-
-___
 
 # Other Projects {.unnumbered #other-projects}
 
