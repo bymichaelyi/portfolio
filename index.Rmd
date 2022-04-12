@@ -65,6 +65,8 @@ as Narrative Designer and Secondary Editor
 as Narrative Designer 
 
 coming soon
+
+
 story demo and gameplay demo both available, please [contact me][Contact]
 
 ___
@@ -286,9 +288,5 @@ You can also:
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="michael-yi-47514b206" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/michael-yi-47514b206?trk=profile-badge">Find me on Linkedin</a></div>
 
-Or add me on WeChat 
-
-<img src="wechatqrcode.jpg" alt="wechatqrcode.jpg" width="300"/>
-
-Manually add me at ID: mishayi if the qr code is not working              
+___
               
