@@ -37,7 +37,15 @@ as Co-Director and Narrative Designer
 
 <img src="banner.gif" alt="banner.gif1" width="600"/>
 
-[Play the game in your browser at itch.io](https://tworaccoons.itch.io/timekeeper)
+[Play the game in your browser](https://threeraccoonsgames.itch.io/timekeeper)
+
+## Sealing of The First GOd {-}
+#### Isometric Bullet Hell {-}
+as Narrative Designer
+
+<img src="firsgod.png" alt="firsgod.png1" width="900"/>
+
+[Download the game for free](https://threeraccoonsgames.itch.io/sealing-of-the-first-god)
 
 ## Back Again {-}
 #### Isometric Retro Puzzle Game {-}
@@ -45,7 +53,7 @@ as Narrative Designer
 
 <img src="bannershitty.png" alt="bannershitty.png1" width="450"/>
 
-[Play the game in your browser at itch.io](https://tworaccoons.itch.io/timekeeper)
+[Play the game in your browser](https://zombonline.itch.io/back-again)
 
 
 ## Tainted Paths {-}
