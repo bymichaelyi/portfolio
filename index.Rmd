@@ -21,7 +21,7 @@ After using up all of my first year electives on English and Creative Writing cl
 
 I began working as a freelance editor, editing works in any genre in my first year as an English major, helping publish novels, poetry collections, picture books and essays. I already did the same thing as a hobby before, so, with new academic knowledge, transitioning into doing it professionally was not a challenge. As a bonus, the experiences prepared me for publishing my own works, be it the self-published short stories and poems during my degree or my autoethnographic essay, recently published in the journal Biography Lives of the University of Hawai'i.
 
-Though I have no intention to doubt the prestige of traditional publishing, my current interests are still in the new mediums and the new ways stories can be told. I have worked as a narrative designer on games and experimented on different platforms such as Twine, Tales, Texture Writer, Story Map JS and R Bookdown (which is what this website is built in).  
+Though I have no intention to doubt the prestige of traditional publishing, my current interests are still in the new mediums and the new ways stories can be told. I have worked as a narrative designer on games and experimented on different platforms such as Twine, Tales, Texture Writer, Story Map JS and R Bookdown (which is what I built this website in).  
 
 Currently, I'm looking for a full-time position where my affinity for writing can come into play. Let me know, I'm up for most things.
 
@@ -105,10 +105,20 @@ ___
 
 ## Consequence of Laughter {-}
 ##### Reflecting on the ways to Create and React to Comedy {-}
+As it appears in the Comedy Lives: Special Issues of Biography Lives by The University of Hawai'i
 
 
 <embed src="comedy_autoethnography.pdf" width="700" height="900" 
  type="application/pdf">
+ 
+## The Sick Men of Perpetuity {-}
+##### On Solidarity and Unity in a Society Built on Racial Hierarchies {-}
+As it appears in the ([AAHAlliance Official Website](https://www.aahalliance.com/news-2/the-sick-men-of-perpetuity)
+
+
+<embed src="The_Sick_Men_of_Perpetuity.pdf" width="700" height="900" 
+ type="application/pdf">
+  
  
 ## Contradictions in Class-Based Restrictions {-}
 ##### on A Woman’s Labour by M. Collier, Man the Monarch by M. Leapor, A Bold Stroke for a Wife by S. Centlivre {-}
