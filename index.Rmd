@@ -237,7 +237,7 @@ As it appears in the [AAHAlliance Official Website](https://www.aahalliance.com/
 ##### Genres: Comedy, Historical Fantasy {-}
 
 
-<embed src="Yi_KingZoltan.pdf" width="700" height="900" 
+<embed src="Yi_King_Zoltan.pdf" width="700" height="900" 
  type="application/pdf"> 
 ___
 
