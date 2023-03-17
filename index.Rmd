@@ -200,7 +200,7 @@ As it appears in the [AAHAlliance Official Website](https://www.aahalliance.com/
 ##### Genres: Literary {-}
 
 
-<embed src="Yi_Nomad.pdf" width="700" height="900" 
+<embed src="Yi_Nomad(updated).pdf" width="700" height="900" 
  type="application/pdf">
  
 ## Borge and Glark and the- {-}
