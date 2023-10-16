@@ -245,6 +245,16 @@ As it appears in the [AAHAlliance Official Website](https://www.aahalliance.com/
  type="application/pdf"> 
 ___
 
+# Flash Fiction {.unnumbered #flash-fiction}
+
+## Kelly and Friends {-}
+##### Genres: Literary {-}
+
+
+<embed src="Kelly_and_Friends[short].pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+ ___
 
 # Novels {.unnumbered #novels}
 
@@ -291,6 +301,7 @@ ___
 
 ## Texting With Kyiv {-}
 #### An archive of all the text chats and voice call transcriptions with a friend in Kyiv during the 2022 Invasion of Ukraine{-}
+#### This project has already concluded
 
 #### [This is a bookdown website, please view it HERE](https://tworaccoons.github.io/textingwithkyiv/) {-}
 ___
