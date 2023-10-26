@@ -35,6 +35,14 @@ ___
 
 # Games {.unnumbered #games}
 
+## Code: Blue {-}
+#### First Person Survival Horror {-}
+as Narrative Designer
+
+<img src="codebluecover.png" alt="codebluecover.png1" width="600"/>
+
+[Download the game for free](https://threeraccoonsgames.itch.io/code-blue)
+
 ## Timekeeper {-}
 #### 2D Atmospheric Platformer {-}
 as Co-Director and Narrative Designer
