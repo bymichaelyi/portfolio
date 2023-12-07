@@ -35,6 +35,14 @@ ___
 
 # Games {.unnumbered #games}
 
+## Ascent {-}
+#### First Person Platformer {-}
+as Narrative Designer
+
+<img src="ascentbanner.png" alt="ascentbanner.png1" width="600"/>
+
+[Download the game for free](https://threeraccoonsgames.itch.io/ascent)
+
 ## Code: Blue {-}
 #### First Person Survival Horror {-}
 as Narrative Designer
@@ -91,7 +99,7 @@ story demo and gameplay demo both available, please [contact me][Contact]
 
 ___
 
-# Games and Interactive Fiction {.unnumbered #interactive-fiction}
+# Interactive Fiction {.unnumbered #interactive-fiction}
 
 ## Godzilla Wednesday {-}
 #### On KnightLab StoryMap JS {-}
@@ -301,17 +309,6 @@ ___
 
 [amazon link](https://www.amazon.com/Fire-Molten-Ash-Clarence-Barbee-ebook/dp/B082KQPNVK#customerReviews)
 
-___
-
-
-
-# Other Projects {.unnumbered #other-projects}
-
-## Texting With Kyiv {-}
-#### An archive of all the text chats and voice call transcriptions with a friend in Kyiv during the 2022 Invasion of Ukraine{-}
-#### This project has already concluded
-
-#### [This is a bookdown website, please view it HERE](https://tworaccoons.github.io/textingwithkyiv/) {-}
 ___
 
 # Contact {.unnumbered #contact}
