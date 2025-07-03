@@ -120,6 +120,106 @@ Solo Project
 ___
 
 
+
+# Short Stories {.unnumbered #short-stories}
+
+## Cloud Fortress {-}
+##### Genres: Fantasy {-}
+
+
+<embed src="Yi_cloudfortress.pdf" width="700" height="900" 
+ type="application/pdf">
+
+## POlitical Compass Test {-}
+##### Genres: Comedy {-}
+
+
+<embed src="Yi_politicalcompasstest.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+ ## Catgirl Apocalypse {-}
+##### Genres: Comedy {-}
+
+
+<embed src="Yi_catgirlapocalypse.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+ ## Neon Red {-}
+##### Genres: Literary {-}
+
+
+<embed src="Yi_neonred.pdf" width="700" height="900" 
+ type="application/pdf">
+
+## Nomad {-}
+##### Genres: Literary {-}
+
+
+<embed src="Yi_Nomad(updated).pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+## Borge and Glark and the- {-}
+##### Genres: Comedy {-}
+
+
+<embed src="Yi_borgeandglark.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+## Spring Again {-}
+##### Genres: Literary, Bildungsroman {-}
+
+
+<embed src="Yi_springagain.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+## The Zoltan Stories {-} 
+ 
+## Zoltan Gets a Job {-}
+##### Genres: Comedy, Satire {-}
+
+
+<embed src="Yi_ZoltanGetsaJob.pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+## Zoltan Robs a Bank {-}
+##### Genres: Comedy, Historical Fantasy {-}
+
+
+<embed src="Yi_ZoltanRobsaBank.pdf" width="700" height="900" 
+ type="application/pdf"> 
+ 
+## King Zoltan the First, I Guess {-}
+##### Genres: Comedy, Historical Fantasy {-}
+
+
+<embed src="Yi_King_Zoltan.pdf" width="700" height="900" 
+ type="application/pdf"> 
+___
+
+# Flash Fiction {.unnumbered #flash-fiction}
+
+## Kelly and Friends {-}
+##### Genres: Literary {-}
+
+
+<embed src="Kelly_and_Friends[short].pdf" width="700" height="900" 
+ type="application/pdf">
+ 
+ ___
+ 
+
+
+# Screenplays {.unnumbered #screenplays}
+
+## King Zoltan the First/Last {-}
+##### Genres: Fantasy {-}
+
+
+<embed src="Yi_KingZoltan.pdf" width="700" height="900" 
+ type="application/pdf">
+  
+ ___
+
 # Essays {.unnumbered #essays}
 
 
@@ -211,72 +311,6 @@ As it appears in the [AAHAlliance Official Website](https://www.aahalliance.com/
 
 <embed src="The_Two_Ways_a_Society_Can_Change_and_How_People_React.pdf" width="700" height="900" 
  type="application/pdf">
- 
- ___
-
-# Short Stories {.unnumbered #short-stories}
-
-## Nomad {-}
-##### Genres: Literary {-}
-
-
-<embed src="Yi_Nomad(updated).pdf" width="700" height="900" 
- type="application/pdf">
- 
-## Borge and Glark and the- {-}
-##### Genres: Comedy {-}
-
-
-<embed src="Yi_borgeandglark.pdf" width="700" height="900" 
- type="application/pdf">
- 
-## Spring Again {-}
-##### Genres: Literary, Bildungsroman {-}
-
-
-<embed src="Yi_springagain.pdf" width="700" height="900" 
- type="application/pdf">
- 
-## The Zoltan Stories {-} 
- 
-## Zoltan Gets a Job {-}
-##### Genres: Comedy, Satire {-}
-
-
-<embed src="Yi_ZoltanGetsaJob.pdf" width="700" height="900" 
- type="application/pdf">
- 
-## Zoltan Robs a Bank {-}
-##### Genres: Comedy, Historical Fantasy {-}
-
-
-<embed src="Yi_ZoltanRobsaBank.pdf" width="700" height="900" 
- type="application/pdf"> 
- 
-## King Zoltan the First, I Guess {-}
-##### Genres: Comedy, Historical Fantasy {-}
-
-
-<embed src="Yi_King_Zoltan.pdf" width="700" height="900" 
- type="application/pdf"> 
-___
-
-# Flash Fiction {.unnumbered #flash-fiction}
-
-## Kelly and Friends {-}
-##### Genres: Literary {-}
-
-
-<embed src="Kelly_and_Friends[short].pdf" width="700" height="900" 
- type="application/pdf">
- 
- ___
-
-# Novels {.unnumbered #novels}
-
-This page is still under construction
-
-Sorry for the inconvenience
 
 ___
 
