@@ -35,6 +35,14 @@ ___
 
 # Games {.unnumbered #games}
 
+## Swashbucklers Inc. {-}
+#### Arcade Platformer {-}
+as Narrative Designer
+
+<img src="swashbuckler.png" alt="swashbuckler.png1" width="600"/>
+
+[Download the game for free](https://wildsprout.itch.io/boss-rush)
+
 ## Ascent {-}
 #### First Person Platformer {-}
 as Narrative Designer
@@ -130,7 +138,7 @@ ___
 <embed src="Yi_cloudfortress.pdf" width="700" height="900" 
  type="application/pdf">
 
-## POlitical Compass Test {-}
+## Political Compass Test {-}
 ##### Genres: Comedy {-}
 
 
